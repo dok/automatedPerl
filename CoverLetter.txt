@@ -1,0 +1,23 @@
+Chan Dokko
+(425)-773-9389
+dokko1230@gmail.com
+
+Dear [% receiver %],
+
+I came across your posting through [% place %] and am very excited to learn that your team is seeking an [% position %]. As a senior interested in pursuing a degree in Human-Computer Interaction and Information Systems, I am seeking this opportunity and I believe your position provides me with the ability to strengthen my skills in this area. I would love to be involved with [% company %].
+
+Having been involved with a variety of organizations, I have a great deal of experience working with many different types of individuals and organizations, such as Mindbloom, as a quality assurance intern and also with my academic colleagues at the Informatics department. As being able to work with technical as well as non-technical professionals, I enjoyed accomplishing my duties, may it be testing, leading, collaborating, or developing.
+
+The qualifications and professional knowledge I can bring to the organization include:
+
+- Quality Assurance analyst and technician: Black-Box and automation testing. Professional documentation of specifications for major projects. Developing black-box/automation test cases.
+- Web development: Client-side as well as some backend work.
+- Understanding of design processes: low/high fidelity prototyping, wireframing, user testing, documenting functional requirements.
+- Technical knowledge in the mobile space as well as the web application development space.
+
+ 
+I believe my qualifications listed above and in the attached resume are an excellent match for your [% position %]. I welcome any questions you might have and look forward to the opportunity for an in-person interview.
+
+Thank you for your time and consideration, 
+
+ Chan Dokko
